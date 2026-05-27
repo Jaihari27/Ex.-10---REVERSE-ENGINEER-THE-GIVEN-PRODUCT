@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex No.4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 15.05.2026
+### DATE: 15-05-2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,7 +32,12 @@
 
 ## Input:
 
+![exp4ss1](https://github.com/user-attachments/assets/0dba920e-0caf-462c-9914-d898dfcbfa85)
+
+
 ### Output:
+
+![exp4ss2](https://github.com/user-attachments/assets/f3c9fea3-de1f-4956-aed8-d2d100a108fc)
 
 
 ### Name: JAIHARI S
